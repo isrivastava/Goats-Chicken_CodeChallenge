@@ -7,4 +7,4 @@
 * Then these numbers are checked with the 5-digit secret number one by one and output  will display all the results tried in the processing containing guess no., no. of guesses, no. of Goats and no. of Chickens.
 * Note that algorithm minimizes the number of guesses. For largest 5-digit number 99999 the program takes only 46 guesses to get 5 goats which is the maximum number of guesses algorithm will make.
 * The whole program took around 6 hours to complete.
-* The project is also present in the github location.
+* The project is also present in the github location https://github.com/isrivastava/Goats-Chicken_CodeChallenge.
