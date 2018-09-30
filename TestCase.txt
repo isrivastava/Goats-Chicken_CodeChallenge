@@ -1,0 +1,189 @@
+Test Case 1 : For secret number 12345
+
+Enter a 5 digit secret number: 
+12345
+
+Guess: 00000
+Number Of guesses: 1
+Goats: 0
+Chicken: 0
+
+Guess: 10000
+Number Of guesses: 2
+Goats: 1
+Chicken: 0
+
+Guess: 11000
+Number Of guesses: 3
+Goats: 1
+Chicken: 0
+
+Guess: 12000
+Number Of guesses: 4
+Goats: 2
+Chicken: 0
+
+Guess: 12100
+Number Of guesses: 5
+Goats: 2
+Chicken: 0
+
+Guess: 12200
+Number Of guesses: 6
+Goats: 2
+Chicken: 0
+
+Guess: 12300
+Number Of guesses: 7
+Goats: 3
+Chicken: 0
+
+Guess: 12310
+Number Of guesses: 8
+Goats: 3
+Chicken: 0
+
+Guess: 12320
+Number Of guesses: 9
+Goats: 3
+Chicken: 0
+
+Guess: 12330
+Number Of guesses: 10
+Goats: 3
+Chicken: 0
+
+Guess: 12340
+Number Of guesses: 11
+Goats: 4
+Chicken: 0
+
+Guess: 12341
+Number Of guesses: 12
+Goats: 4
+Chicken: 0
+
+Guess: 12342
+Number Of guesses: 13
+Goats: 4
+Chicken: 0
+
+Guess: 12343
+Number Of guesses: 14
+Goats: 4
+Chicken: 0
+
+Guess: 12344
+Number Of guesses: 15
+Goats: 4
+Chicken: 0
+
+Guess: 12345
+Number Of guesses: 16
+Goats: 5
+Chicken: 0
+
+Test Case 1 : For secret number 52246
+
+Enter a 5 digit secret number: 
+52246
+
+Guess: 00000
+Number Of guesses: 1
+Goats: 0
+Chicken: 0
+
+Guess: 10000
+Number Of guesses: 2
+Goats: 0
+Chicken: 0
+
+Guess: 20000
+Number Of guesses: 3
+Goats: 0
+Chicken: 1
+
+Guess: 30000
+Number Of guesses: 4
+Goats: 0
+Chicken: 0
+
+Guess: 40000
+Number Of guesses: 5
+Goats: 0
+Chicken: 1
+
+Guess: 50000
+Number Of guesses: 6
+Goats: 1
+Chicken: 0
+
+Guess: 51000
+Number Of guesses: 7
+Goats: 1
+Chicken: 0
+
+Guess: 52000
+Number Of guesses: 8
+Goats: 2
+Chicken: 0
+
+Guess: 52100
+Number Of guesses: 9
+Goats: 2
+Chicken: 0
+
+Guess: 52200
+Number Of guesses: 10
+Goats: 3
+Chicken: 0
+
+Guess: 52210
+Number Of guesses: 11
+Goats: 3
+Chicken: 0
+
+Guess: 52220
+Number Of guesses: 12
+Goats: 3
+Chicken: 0
+
+Guess: 52230
+Number Of guesses: 13
+Goats: 3
+Chicken: 0
+
+Guess: 52240
+Number Of guesses: 14
+Goats: 4
+Chicken: 0
+
+Guess: 52241
+Number Of guesses: 15
+Goats: 4
+Chicken: 0
+
+Guess: 52242
+Number Of guesses: 16
+Goats: 4
+Chicken: 0
+
+Guess: 52243
+Number Of guesses: 17
+Goats: 4
+Chicken: 0
+
+Guess: 52244
+Number Of guesses: 18
+Goats: 4
+Chicken: 0
+
+Guess: 52245
+Number Of guesses: 19
+Goats: 4
+Chicken: 0
+
+Guess: 52246
+Number Of guesses: 20
+Goats: 5
+Chicken: 0
